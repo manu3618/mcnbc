@@ -1,0 +1,75 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+18/10/2018 à 20:11;19/10/2018 à 01:42;
+
+   Chiffre d'Affaires TTC;268,40 €   
+   Chiffre d'Affaires HT;229,81 €   
+   TVA Collecté;38,59 €   
+   Total Marge HT;229,74 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;20   
+   Nombre de produits vendus;38   
+   Ticket moyen TTC;13,42 €   
+   Nombre moyen de produits / Ticket;1,9   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;29;31,23 €   ;156,17;187,40 €   
+TVA Vente 10%;10 %;9;7,36 €   ;73,64;81,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;123,30 €;0,00 €;123,30 €;5
+Espèces;145,10 €;0,00 €;145,10 €;15
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Cabotinage PINTE;4,000;23,20;19,33
+Charcuterie;2,000;26,00;23,64
+Cidre DEMI;4,000;18,00;15,00
+Cidre PINTE;3,000;21,00;17,50
+Eau Gazeuse/Plate;1,000;2,50;2,27
+Echauffement;1,000;3,50;3,18
+Festival;2,000;16,00;14,55
+Kir;4,000;28,00;23,33
+Mini Végan;1,000;7,00;6,36
+Mixte;1,000;15,00;13,64
+Oliphant DEMI;2,000;11,00;9,17
+Oliphant PINTE;6,000;49,20;41,00
+Petrus;1,000;6,50;5,42
+Pietra PINTE;1,000;9,80;8,17
+Sphinx;3,000;13,50;11,25
+Sphinx PINTE;1,000;7,20;6,00
+Végan;1,000;11,00;10,00
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;1,000;6,50;5,42
+Bières pression;24,000;152,90;127,42
+Boisson chaudes;1,000;3,50;3,18
+Cocktails;6,000;44,00;37,88
+Planches;5,000;59,00;53,64
+Softs;1,000;2,50;2,27
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;33,000;209,40;176,17
+En-cas;5,000;59,00;53,64
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;38,000;38;268,40;229,80;0,00

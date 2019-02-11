@@ -1,0 +1,77 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+21/09/2018 à 17:57;21/09/2018 à 23:47;
+
+   Chiffre d'Affaires TTC;363,50 €   
+   Chiffre d'Affaires HT;310,60 €   
+   TVA Collecté;52,90 €   
+   Total Marge HT;310,57 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;33   
+   Nombre de produits vendus;58   
+   Ticket moyen TTC;11,02 €   
+   Nombre moyen de produits / Ticket;1,8   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;44;43,74 €   ;218,76;262,50 €   
+TVA Vente 10%;10 %;14;9,16 €   ;91,84;101,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;234,60 €;0,00 €;234,60 €;15
+Espèces;128,90 €;0,00 €;128,90 €;18
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Cabotinage DEMI;8,000;28,00;23,33
+Cabotinage PINTE;11,000;63,80;53,17
+Cidre DEMI;5,000;22,50;18,75
+Cidre PINTE;7,000;49,00;40,83
+Festival;1,000;8,00;7,27
+Fromages;1,000;11,00;10,00
+Jus Pomme;4,000;16,00;14,55
+Keith;1,000;8,00;6,67
+Leffe;1,000;6,50;5,42
+Long Form;2,000;13,00;11,82
+Mini Char;1,000;8,00;7,27
+Mixte;1,000;15,00;13,64
+Oliphant PINTE;4,000;32,80;27,33
+Patinoire;1,000;7,50;6,25
+Pietra HH;1,000;8,00;6,67
+Pietra PINTE;3,000;29,40;24,50
+Sodas;2,000;8,00;7,27
+Valpolicella Rouge VERRE;2,000;7,00;5,83
+Végan;2,000;22,00;20,00
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;1,000;6,50;5,42
+Bières pression;38,000;225,50;187,92
+Cocktails;5,000;36,50;32,01
+Planches;5,000;56,00;50,91
+Softs;6,000;24,00;21,82
+Vins;2,000;7,00;5,83
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;53,000;307,50;259,66
+En-cas;5,000;56,00;50,91
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;58,000;58;363,50;310,57;0,00

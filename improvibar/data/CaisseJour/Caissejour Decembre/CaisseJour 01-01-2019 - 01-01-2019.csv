@@ -1,0 +1,58 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+01/01/2019 à 19:21;01/01/2019 à 22:17;
+
+   Chiffre d'Affaires TTC;21,50 €   
+   Chiffre d'Affaires HT;19,21 €   
+   TVA Collecté;2,29 €   
+   Total Marge HT;19,21 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;4   
+   Nombre de produits vendus;5   
+   Ticket moyen TTC;5,38 €   
+   Nombre moyen de produits / Ticket;1,3   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;1;0,75 €   ;3,75;4,50 €   
+TVA Vente 10%;10 %;4;1,54 €   ;15,46;17,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;18,50 €;0,00 €;18,50 €;3
+Carte Bancaire;3,00 €;0,00 €;3,00 €;1
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Applaudissement;2,000;10,00;9,09
+Cidre DEMI;1,000;4,50;3,75
+Jus Pomme;1,000;4,00;3,64
+Thé;1,000;3,00;2,73
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières pression;1,000;4,50;3,75
+Boisson chaudes;3,000;13,00;11,82
+Softs;1,000;4,00;3,64
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;5,000;21,50;19,20
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;5,000;4;21,50;19,20;0,00

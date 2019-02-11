@@ -1,0 +1,83 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+16/12/2018 à 15:35;17/12/2018 à 00:07;
+
+   Chiffre d'Affaires TTC;664,20 €   
+   Chiffre d'Affaires HT;564,26 €   
+   TVA Collecté;99,94 €   
+   Total Marge HT;564,23 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;83   
+   Nombre de produits vendus;114   
+   Ticket moyen TTC;8,00 €   
+   Nombre moyen de produits / Ticket;1,4   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;84;87,15 €   ;435,55;522,70 €   
+TVA Vente 10%;10 %;30;12,79 €   ;128,71;141,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;291,10 €;0,00 €;291,10 €;47
+Carte Bancaire;373,10 €;0,00 €;373,10 €;37
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Applaudissement;5,000;25,00;22,73
+Blanche neige PINTE;6,000;42,00;35,00
+Bol saucisson;1,000;4,00;3,33
+Cabotinage DEMI;8,000;28,00;23,33
+Cabotinage PINTE;32,000;185,60;154,67
+Cidre Val de Rance 33cl;7,000;35,00;29,17
+Eau Gazeuse/Plate;4,000;10,00;9,09
+Gravel;2,000;10,00;9,09
+Jus Pomme;5,000;20,00;18,18
+Long Form;1,000;6,50;5,91
+Mixte;1,000;15,00;13,64
+Monaco;2,000;10,00;8,33
+Mont d'or petit;1,000;13,00;11,82
+Patinoire;1,000;8,00;6,67
+Pietra PINTE;7,000;65,80;54,83
+Poiré;1,000;6,50;5,42
+Scène;3,000;16,50;15,00
+Sodas;4,000;16,00;14,55
+Sodas HH;1,000;3,00;2,73
+Sup. Sirop;1,000;0,50;0,45
+Thé;2,000;6,00;5,45
+Vertigo demi;6,000;33,00;27,50
+Vertigo HH;1,000;6,40;5,33
+Vertigo Pinte;12,000;98,40;82,00
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;8,000;41,50;34,58
+Bières pression;71,000;452,80;377,33
+Boisson chaudes;7,000;31,00;28,18
+Cocktails;7,000;41,00;35,91
+happy hour;2,000;9,40;8,06
+Planches;3,000;32,00;28,79
+Softs;16,000;56,50;51,36
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;111,000;632,20;535,43
+En-cas;3,000;32,00;28,79
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;114,000;97;664,20;564,22;0,00

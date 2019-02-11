@@ -1,0 +1,72 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+16/09/2018 à 17:05;16/09/2018 à 23:28;
+
+   Chiffre d'Affaires TTC;113,00 €   
+   Chiffre d'Affaires HT;98,20 €   
+   TVA Collecté;14,80 €   
+   Total Marge HT;98,17 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;13   
+   Nombre de produits vendus;29   
+   Ticket moyen TTC;8,69 €   
+   Nombre moyen de produits / Ticket;2,2   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;12;9,99 €   ;50,01;60,00 €   
+TVA Vente 10%;10 %;17;4,81 €   ;48,19;53,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;83,50 €;0,00 €;83,50 €;10
+Carte Bancaire;29,50 €;0,00 €;29,50 €;3
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Bordolino rosé VERRE;1,000;6,00;5,00
+Cabotinage DEMI;2,000;7,00;5,83
+Cabotinage HH;2,000;8,00;6,67
+Cabotinage PINTE;1,000;5,80;4,83
+Cidre Val de Rance 33cl;1,000;5,00;4,17
+Desperados;1,000;6,50;5,42
+Eau Gazeuse/Plate;6,000;15,00;13,64
+Jus Pomme;2,000;8,00;7,27
+Mini From;1,000;7,00;6,36
+Oliphant PINTE;1,000;8,20;6,83
+Scène;1,000;5,50;5,00
+Sodas;4,000;16,00;14,55
+Sphinx;3,000;13,50;11,25
+Sup. Sirop;3,000;1,50;1,36
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;1,000;6,50;5,42
+Bières pression;7,000;34,50;28,75
+Cocktails;1,000;5,50;5,00
+Planches;1,000;7,00;6,36
+Softs;15,000;40,50;36,82
+Vins;1,000;6,00;5,00
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;28,000;106,00;91,82
+En-cas;1,000;7,00;6,36
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;29,000;29;113,00;98,18;0,00

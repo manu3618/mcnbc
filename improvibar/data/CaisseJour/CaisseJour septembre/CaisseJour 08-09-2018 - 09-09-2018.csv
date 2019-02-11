@@ -1,0 +1,109 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+08/09/2018 à 14:38;09/09/2018 à 01:57;
+
+   Chiffre d'Affaires TTC;2339,00 €   
+   Chiffre d'Affaires HT;1983,69 €   
+   TVA Collecté;355,31 €   
+   Total Marge HT;1983,60 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;273   
+   Nombre de produits vendus;416   
+   Ticket moyen TTC;8,57 €   
+   Nombre moyen de produits / Ticket;1,5   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;321;313,91 €   ;1569,59;1883,50 €   
+TVA Vente 10%;10 %;95;41,40 €   ;414,10;455,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;2339,00 €;0,00 €;2339,00 €;273
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Blanc VERRE;11,000;55,00;45,83
+Bordolino rosé VERRE;3,000;15,00;12,50
+Cabaret;1,000;8,00;6,67
+Cabotinage DEMI;35,000;122,50;102,08
+Cabotinage PINTE;78,000;452,40;377,00
+Charcuterie;3,000;39,00;35,45
+Chimay;1,000;7,50;6,25
+Cidre Val de Rance 33cl;15,000;75,00;62,50
+Cidre Val de Rance 75cl;3,000;33,00;30,00
+Cookies;1,000;3,50;3,18
+Desperados;4,000;26,00;21,67
+Eau Gazeuse/Plate;9,000;22,50;20,45
+Felsgold HH;23,000;92,00;76,67
+Felsgold PINTE;1,000;5,50;4,58
+Féond;2,000;17,00;14,17
+Festival;3,000;24,00;21,82
+Fromages;2,000;22,00;20,00
+Improvi'bar Alcool;3,000;24,00;20,00
+Jus Pomme;9,000;36,00;32,73
+Keith;1,000;8,00;6,67
+Leffe;1,000;6,50;5,42
+Lever de Rideau;5,000;37,50;31,25
+Mixte;4,000;60,00;54,55
+Oliphant DEMI;4,000;20,80;17,33
+Oliphant HH;1,000;6,50;5,42
+Oliphant PINTE;30,000;234,00;195,00
+Patinoire;11,000;82,50;68,75
+Petrus;1,000;6,50;5,42
+Pietra DEMI;6,000;39,00;32,50
+Pietra PINTE;6,000;58,80;49,00
+Pinot Rosé;1,000;6,00;5,00
+Rhum Black Magic;1,000;10,00;8,33
+Rhum Krakren;1,000;10,00;8,33
+Scène;16,000;88,00;80,00
+Shots 1;3,000;10,50;8,75
+Sirop à l'eau;7,000;10,50;9,55
+Sodas;12,000;48,00;43,64
+Sodas HH;14,000;42,00;38,18
+Sphinx;14,000;63,00;52,50
+Sphinx PINTE;30,000;216,00;180,00
+Sup. Sirop;10,000;5,00;4,55
+Thème Alcool;1,000;9,00;7,50
+Uburu DEMI;1,000;4,50;3,75
+Uburu PINTE;7,000;45,50;37,92
+Valpolicella Rouge VERRE;14,000;56,00;46,67
+Végan;2,000;22,00;20,00
+Whisky Akashi;2,000;20,00;16,67
+Whisky Amrut;1,000;13,00;10,83
+Whisky R.Burns;2,000;20,00;16,67
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;7,000;73,00;60,83
+Bières bouteille;10,000;70,00;58,33
+Bières pression;212,000;1262,00;1051,67
+Cocktails;44,000;291,50;251,40
+en cas;1,000;3,50;3,18
+Planches;11,000;143,00;130,00
+Softs;47,000;122,00;110,91
+Vins;29,000;132,00;110,00
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;404,000;2192,50;1850,49
+En-cas;12,000;146,50;133,18
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;416,000;416;2339,00;1983,67;0,00

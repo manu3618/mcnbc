@@ -1,0 +1,80 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+17/10/2018 à 18:46;18/10/2018 à 00:09;
+
+   Chiffre d'Affaires TTC;433,10 €   
+   Chiffre d'Affaires HT;367,02 €   
+   TVA Collecté;66,08 €   
+   Total Marge HT;367,00 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;42   
+   Nombre de produits vendus;66   
+   Ticket moyen TTC;10,31 €   
+   Nombre moyen de produits / Ticket;1,6   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;56;58,81 €   ;294,29;353,10 €   
+TVA Vente 10%;10 %;10;7,27 €   ;72,73;80,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;258,60 €;0,00 €;258,60 €;16
+Espèces;174,50 €;0,00 €;174,50 €;26
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Blanc VERRE;4,000;12,00;10,00
+Bordolino rosé VERRE;1,000;3,00;2,50
+Cabotinage DEMI;6,000;21,00;17,50
+Café;1,000;2,00;1,82
+Charcuterie;2,000;26,00;23,64
+Chateau Rouge;1,000;8,00;6,67
+Cidre DEMI;3,000;13,50;11,25
+Cidre PINTE;10,000;70,00;58,33
+Féond;1,000;8,50;7,08
+Festival;4,000;32,00;29,09
+Mini Végan;1,000;7,00;6,36
+Oliphant DEMI;5,000;27,50;22,92
+Pietra DEMI;2,000;13,00;10,83
+Pietra PINTE;13,000;127,40;106,17
+Shots 1;1,000;3,50;2,92
+Sphinx;5,000;22,50;18,75
+Sphinx HH;2,000;10,00;8,33
+Sphinx PINTE;1,000;7,20;6,00
+SpotLight HH;1,000;6,00;5,00
+Thé;1,000;2,00;1,82
+Végan;1,000;11,00;10,00
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;2,000;16,50;13,75
+Bières pression;45,000;302,10;251,75
+Boisson chaudes;2,000;4,00;3,64
+Cocktails;5,000;35,50;32,01
+happy hour;3,000;16,00;13,33
+Planches;4,000;44,00;40,00
+Vins;5,000;15,00;12,50
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;62,000;389,10;326,98
+En-cas;4,000;44,00;40,00
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;66,000;66;433,10;366,98;0,00

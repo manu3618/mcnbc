@@ -1,0 +1,75 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+13/11/2018 à 18:36;14/11/2018 à 01:20;
+
+   Chiffre d'Affaires TTC;206,10 €   
+   Chiffre d'Affaires HT;174,43 €   
+   TVA Collecté;31,67 €   
+   Total Marge HT;174,40 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;25   
+   Nombre de produits vendus;35   
+   Ticket moyen TTC;8,24 €   
+   Nombre moyen de produits / Ticket;1,4   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;29;28,44 €   ;142,16;170,60 €   
+TVA Vente 10%;10 %;6;3,23 €   ;32,27;35,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;75,10 €;0,00 €;75,10 €;12
+Carte Bancaire;131,00 €;0,00 €;131,00 €;13
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Bordolino rosé VERRE;1,000;3,00;2,50
+Cabotinage PINTE;12,000;69,60;58,00
+Chimay;2,000;15,00;12,50
+Cidre DEMI;1,000;4,50;3,75
+Cidre HH;2,000;10,40;8,67
+Cote de provence verre;2,000;12,00;10,00
+Côte du Rhône;1,000;5,00;4,17
+Eau Gazeuse/Plate;1,000;2,50;2,27
+Mini Char;1,000;8,00;7,27
+Oliphant PINTE;1,000;8,20;6,83
+Pietra DEMI;3,000;19,50;16,25
+Scène;2,000;11,00;10,00
+Shots 1;2,000;7,00;5,83
+Sodas HH;1,000;3,00;2,73
+Végan;1,000;11,00;10,00
+Vertigo Pinte;2,000;16,40;13,67
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;2,000;15,00;12,50
+Bières pression;19,000;118,20;98,50
+Cocktails;4,000;18,00;15,83
+happy hour;3,000;13,40;11,39
+Planches;2,000;19,00;17,27
+Softs;1,000;2,50;2,27
+Vins;4,000;20,00;16,67
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;33,000;187,10;157,17
+En-cas;2,000;19,00;17,27
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;35,000;35;206,10;174,44;0,00

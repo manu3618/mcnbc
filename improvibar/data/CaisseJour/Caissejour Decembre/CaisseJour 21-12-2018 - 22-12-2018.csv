@@ -1,0 +1,82 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+21/12/2018 à 20:07;22/12/2018 à 01:41;
+
+   Chiffre d'Affaires TTC;413,70 €   
+   Chiffre d'Affaires HT;351,58 €   
+   TVA Collecté;62,12 €   
+   Total Marge HT;351,56 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;38   
+   Nombre de produits vendus;51   
+   Ticket moyen TTC;10,89 €   
+   Nombre moyen de produits / Ticket;1,3   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;39;53,94 €   ;269,76;323,70 €   
+TVA Vente 10%;10 %;12;8,18 €   ;81,82;90,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;173,40 €;0,00 €;173,40 €;15
+Carte Bancaire;240,30 €;0,00 €;240,30 €;23
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Blanche neige PINTE;1,000;7,00;5,83
+Cabotinage DEMI;1,000;3,50;2,92
+Cabotinage PINTE;8,000;46,40;38,67
+champagne bouteille;1,000;50,00;41,67
+Cidre DEMI;3,000;13,50;11,25
+Cidre PINTE;5,000;35,00;29,17
+Festival;4,000;32,00;26,67
+Fromages;1,000;11,00;10,00
+Gascogne;1,000;5,00;4,17
+Jus Pomme;2,000;8,00;7,27
+Kir;1,000;7,00;5,83
+Lever de Rideau;3,000;24,00;20,00
+Long Form;3,000;19,50;17,73
+Madiran;1,000;6,50;5,42
+Mini Végan;1,000;7,00;6,36
+Mixte;1,000;15,00;13,64
+Mont d'or petit;1,000;13,00;11,82
+Petrus;2,000;13,00;10,83
+Pietra DEMI;1,000;6,50;5,42
+Scène;3,000;16,50;15,00
+Shots 10;1,000;20,00;16,67
+Shots 5;1,000;12,00;10,00
+Thème Alcool;1,000;9,50;7,92
+Vertigo Pinte;4,000;32,80;27,33
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;2,000;13,00;10,83
+Bières pression;23,000;144,70;120,58
+Cocktails;17,000;140,50;119,81
+Planches;4,000;46,00;41,82
+Softs;2,000;8,00;7,27
+Vins;3,000;61,50;51,25
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;47,000;367,70;309,75
+En-cas;4,000;46,00;41,82
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;51,000;50;413,70;351,57;0,00

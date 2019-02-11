@@ -1,0 +1,54 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+19/01/2019 à 01:11;19/01/2019 à 01:39;
+
+   Chiffre d'Affaires TTC;16,00 €   
+   Chiffre d'Affaires HT;13,33 €   
+   TVA Collecté;2,67 €   
+   Total Marge HT;13,34 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;1   
+   Nombre de produits vendus;2   
+   Ticket moyen TTC;16,00 €   
+   Nombre moyen de produits / Ticket;2,0   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;2;2,67 €   ;13,33;16,00 €   
+;;;;0,00;
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;16,00 €;0,00 €;16,00 €;1
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Festival;1,000;8,00;6,67
+Lever de Rideau;1,000;8,00;6,67
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Cocktails;2,000;16,00;13,33
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;2,000;16,00;13,33
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;2,000;2;16,00;13,33;0,00

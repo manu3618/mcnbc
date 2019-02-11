@@ -1,0 +1,68 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+03/01/2019 à 21:22;03/01/2019 à 23:57;
+
+   Chiffre d'Affaires TTC;96,50 €   
+   Chiffre d'Affaires HT;81,63 €   
+   TVA Collecté;14,87 €   
+   Total Marge HT;81,63 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;6   
+   Nombre de produits vendus;14   
+   Ticket moyen TTC;16,08 €   
+   Nombre moyen de produits / Ticket;2,3   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;12;13,42 €   ;67,08;80,50 €   
+TVA Vente 10%;10 %;2;1,45 €   ;14,55;16,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;66,80 €;0,00 €;66,80 €;5
+Carte Bancaire;29,70 €;0,00 €;29,70 €;2
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Applaudissement;1,000;5,00;4,55
+Blanche neige PINTE;1,000;7,00;5,83
+Cabotinage PINTE;3,000;17,40;14,50
+Cidre DEMI;2,000;9,00;7,50
+Cidre PINTE;1,000;7,00;5,83
+Pietra DEMI;1,000;6,50;5,42
+Pietra PINTE;1,000;9,40;7,83
+Poiré;1,000;6,50;5,42
+Thème Alcool;1,000;9,50;7,92
+Végan;1,000;11,00;10,00
+Vertigo Pinte;1,000;8,20;6,83
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;1,000;6,50;5,42
+Bières pression;10,000;64,50;53,75
+Boisson chaudes;1,000;5,00;4,55
+Cocktails;1,000;9,50;7,92
+Planches;1,000;11,00;10,00
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;13,000;85,50;71,63
+En-cas;1,000;11,00;10,00
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;14,000;12;96,50;81,63;0,00

@@ -1,0 +1,55 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+30/01/2019 à 15:28;30/01/2019 à 15:29;
+
+   Chiffre d'Affaires TTC;11,00 €   
+   Chiffre d'Affaires HT;9,16 €   
+   TVA Collecté;1,84 €   
+   Total Marge HT;9,16 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;2   
+   Nombre de produits vendus;2   
+   Ticket moyen TTC;5,50 €   
+   Nombre moyen de produits / Ticket;1,0   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;2;1,84 €   ;9,16;11,00 €   
+;;;;0,00;
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;11,00 €;0,00 €;11,00 €;2
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+3 rivieres;1,000;7,00;5,83
+Cabotinage HH;1,000;4,00;3,33
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;1,000;7,00;5,83
+happy hour;1,000;4,00;3,33
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;2,000;11,00;9,17
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;2,000;2;11,00;9,17;0,00

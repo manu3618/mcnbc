@@ -1,0 +1,80 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+14/09/2018 à 17:00;15/09/2018 à 00:54;
+
+   Chiffre d'Affaires TTC;235,00 €   
+   Chiffre d'Affaires HT;198,50 €   
+   TVA Collecté;36,50 €   
+   Total Marge HT;198,49 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;21   
+   Nombre de produits vendus;41   
+   Ticket moyen TTC;11,19 €   
+   Nombre moyen de produits / Ticket;2,0   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;35;33,33 €   ;166,67;200,00 €   
+TVA Vente 10%;10 %;6;3,17 €   ;31,83;35,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;150,00 €;0,00 €;150,00 €;11
+Espèces;85,00 €;0,00 €;85,00 €;10
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Blanc VERRE;3,000;15,00;12,50
+Bordolino rosé VERRE;1,000;6,00;5,00
+Cabotinage DEMI;4,000;14,00;11,67
+Cabotinage HH;3,000;12,00;10,00
+Cabotinage PINTE;11,000;63,80;53,17
+Chateau Rouge;1,000;8,00;6,67
+Cidre Val de Rance 33cl;2,000;10,00;8,33
+Cookies;2,000;6,00;5,45
+Improvi'bar Alcool;2,000;17,00;14,17
+Improvi'bar Soft;1,000;7,00;6,36
+Mixte;1,000;15,00;13,64
+Pietra DEMI;2,000;13,00;10,83
+Shots 1;1,000;3,50;2,92
+Sodas;1,000;4,00;3,64
+Sodas HH;1,000;3,00;2,73
+Sphinx;1,000;4,50;3,75
+Sphinx PINTE;1,000;7,20;6,00
+Thème Alcool;1,000;9,50;7,92
+Valpolicella Rouge VERRE;1,000;3,50;2,92
+Whisky Amrut;1,000;13,00;10,83
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;1,000;13,00;10,83
+Bières bouteille;1,000;8,00;6,67
+Bières pression;19,000;102,50;85,42
+Cocktails;5,000;37,00;31,36
+en cas;2,000;6,00;5,45
+Planches;1,000;15,00;13,64
+Softs;1,000;4,00;3,64
+Vins;5,000;24,50;20,42
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;38,000;214,00;179,39
+En-cas;3,000;21,00;19,09
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;41,000;41;235,00;198,48;0,00

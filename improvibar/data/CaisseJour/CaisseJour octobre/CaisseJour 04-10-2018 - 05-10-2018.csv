@@ -1,0 +1,90 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+04/10/2018 à 18:06;05/10/2018 à 00:11;
+
+   Chiffre d'Affaires TTC;370,00 €   
+   Chiffre d'Affaires HT;314,01 €   
+   TVA Collecté;55,99 €   
+   Total Marge HT;313,97 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;33   
+   Nombre de produits vendus;66   
+   Ticket moyen TTC;11,21 €   
+   Nombre moyen de produits / Ticket;2,0   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;52;49,24 €   ;246,26;295,50 €   
+TVA Vente 10%;10 %;14;6,75 €   ;67,75;74,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;246,20 €;0,00 €;246,20 €;13
+Espèces;123,80 €;0,00 €;123,80 €;20
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+BapBap;1,000;7,00;5,83
+Bordolino rosé VERRE;1,000;3,00;2,50
+Cabotinage DEMI;5,000;17,50;14,58
+Cabotinage HH;7,000;28,00;23,33
+Cabotinage PINTE;2,000;11,60;9,67
+Café;3,000;6,00;5,45
+Chateau Rouge;2,000;16,00;13,33
+Chimay;1,000;7,50;6,25
+Cidre DEMI;1,000;4,50;3,75
+Cidre PINTE;1,000;7,00;5,83
+Cidre Val de Rance 33cl;1,000;5,00;4,17
+Cote de provence verre;1,000;6,00;5,00
+Desperados;3,000;19,50;16,25
+Eau Gazeuse/Plate;2,000;5,00;4,55
+Jus Pomme;1,000;4,00;3,64
+Master;1,000;8,50;7,08
+Mini From;1,000;7,00;6,36
+Mixte;2,000;30,00;27,27
+Oliphant DEMI;2,000;11,00;9,17
+Oliphant PINTE;3,000;24,60;20,50
+Patinoire;1,000;7,50;6,25
+Pietra PINTE;2,000;19,60;16,33
+Pinte HH;2,000;8,00;6,67
+Rose delle Venezie Rosé VERRE;1,000;4,00;3,33
+Sodas;2,000;8,00;7,27
+Sodas HH;1,000;3,00;2,73
+Sphinx;7,000;31,50;26,25
+Sphinx PINTE;6,000;43,20;36,00
+Sup. Sirop;1,000;0,50;0,45
+Valençay rouge VERRE;1,000;5,00;4,17
+Végan;1,000;11,00;10,00
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;8,000;55,00;45,83
+Bières pression;29,000;170,50;142,08
+Boisson chaudes;3,000;6,00;5,45
+Cocktails;2,000;16,00;13,33
+Planches;4,000;48,00;43,64
+Softs;6,000;17,50;15,91
+Vins;4,000;18,00;15,00
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;62,000;322,00;270,34
+En-cas;4,000;48,00;43,64
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;66,000;66;370,00;313,98;0,00

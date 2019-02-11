@@ -1,0 +1,95 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+07/11/2018 à 18:34;08/11/2018 à 00:49;
+
+   Chiffre d'Affaires TTC;620,30 €   
+   Chiffre d'Affaires HT;522,31 €   
+   TVA Collecté;97,99 €   
+   Total Marge HT;522,23 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;63   
+   Nombre de produits vendus;97   
+   Ticket moyen TTC;9,85 €   
+   Nombre moyen de produits / Ticket;1,5   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;85;91,49 €   ;457,31;548,80 €   
+TVA Vente 10%;10 %;12;6,50 €   ;65,00;71,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;220,10 €;0,00 €;220,10 €;26
+Carte Bancaire;400,20 €;0,00 €;400,20 €;37
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Cabotinage DEMI;5,000;17,50;14,58
+Cabotinage HH;2,000;8,00;6,67
+Cabotinage PINTE;14,000;81,20;67,67
+Cidre DEMI;3,000;13,50;11,25
+Cidre HH;1,000;5,20;4,33
+Cidre PINTE;6,000;42,00;35,00
+Côte du Rhône;2,000;10,00;8,33
+Eau Gazeuse/Plate;3,000;7,50;6,82
+Grimbergen;6,000;39,00;32,50
+Improvi'bar Soft;1,000;7,00;6,36
+Jus Pomme;2,000;8,00;7,27
+Madiran;5,000;32,50;27,08
+Mixte;2,000;30,00;27,27
+Oliphant DEMI;3,000;16,50;13,75
+Oliphant PINTE;1,000;8,20;6,83
+Patinoire HH;1,000;6,20;5,17
+Pietra HH;13,000;98,80;82,33
+Pietra PINTE;5,000;47,00;39,17
+Pineau des charentes;2,000;12,00;10,00
+Rhum Krakren;1,000;10,00;8,33
+Scene HH;1,000;4,50;4,09
+Shot double 1;2,000;12,00;10,00
+Shots 1;1,000;3,50;2,92
+Sphinx;1,000;8,00;6,67
+Spotlight;1,000;8,00;6,67
+Sup. Sirop;1,000;0,50;0,45
+Telenn Du;1,000;7,50;6,25
+Thé;1,000;3,00;2,73
+Végan;1,000;11,00;10,00
+Velouté;1,000;6,50;5,42
+Vertigo demi;3,000;16,50;13,75
+Vertigo HH;2,000;12,80;10,67
+Vertigo Pinte;2,000;16,40;13,67
+Whisky Akashi;1,000;10,00;8,33
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;2,000;20,00;16,67
+Bières bouteille;8,000;54,50;45,42
+Bières pression;42,000;258,80;215,67
+Boisson chaudes;1,000;3,00;2,73
+Cocktails;5,000;30,50;25,95
+happy hour;20,000;135,50;113,26
+Planches;4,000;47,50;42,69
+Softs;6,000;16,00;14,55
+Vins;9,000;54,50;45,42
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;93,000;572,80;479,64
+En-cas;4,000;47,50;42,69
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;97,000;97;620,30;522,33;0,00

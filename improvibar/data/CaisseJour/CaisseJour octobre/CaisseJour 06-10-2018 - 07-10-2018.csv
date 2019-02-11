@@ -1,0 +1,70 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+06/10/2018 à 15:54;07/10/2018 à 00:06;
+
+   Chiffre d'Affaires TTC;131,60 €   
+   Chiffre d'Affaires HT;116,09 €   
+   TVA Collecté;15,51 €   
+   Total Marge HT;116,09 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;10   
+   Nombre de produits vendus;18   
+   Ticket moyen TTC;13,16 €   
+   Nombre moyen de produits / Ticket;1,8   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;8;7,84 €   ;39,26;47,10 €   
+TVA Vente 10%;10 %;10;7,67 €   ;76,83;84,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;95,10 €;0,00 €;95,10 €;8
+Carte Bancaire;36,50 €;0,00 €;36,50 €;2
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Bordolino rosé VERRE;3,000;9,00;7,50
+Cidre PINTE;1,000;7,00;5,83
+Eau Gazeuse/Plate;1,000;2,50;2,27
+Fromages;1,000;11,00;10,00
+Jus Pomme;1,000;4,00;3,64
+Long Form;1,000;6,50;5,91
+Mixte;3,000;45,00;40,91
+Pietra DEMI;1,000;6,50;5,42
+Pietra PINTE;2,000;19,60;16,33
+Sodas;1,000;4,00;3,64
+Sup. Sirop;1,000;0,50;0,45
+Valençay rouge VERRE;1,000;5,00;4,17
+Végan;1,000;11,00;10,00
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières pression;4,000;33,10;27,58
+Cocktails;1,000;6,50;5,91
+Planches;5,000;67,00;60,91
+Softs;4,000;11,00;10,00
+Vins;4,000;14,00;11,67
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;13,000;64,60;55,16
+En-cas;5,000;67,00;60,91
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;18,000;18;131,60;116,07;0,00

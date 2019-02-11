@@ -1,0 +1,91 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+27/10/2018 à 13:41;28/10/2018 à 01:30;
+
+   Chiffre d'Affaires TTC;651,00 €   
+   Chiffre d'Affaires HT;556,23 €   
+   TVA Collecté;94,77 €   
+   Total Marge HT;556,21 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;57   
+   Nombre de produits vendus;109   
+   Ticket moyen TTC;11,42 €   
+   Nombre moyen de produits / Ticket;1,9   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;76;78,33 €   ;391,67;470,00 €   
+TVA Vente 10%;10 %;33;16,44 €   ;164,56;181,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;397,40 €;0,00 €;397,40 €;28
+Espèces;253,60 €;0,00 €;253,60 €;30
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+BAP BAP Vertigo;5,000;40,00;33,33
+Bol saucisson;2,000;8,00;6,67
+Bordolino rosé VERRE;1,000;3,00;2,50
+Cabotinage DEMI;11,000;38,50;32,08
+Cabotinage PINTE;20,000;116,00;96,67
+Café;2,000;4,00;3,64
+Chateau Rouge;3,000;21,00;17,50
+Cidre DEMI;2,000;9,00;7,50
+Cidre PINTE;6,000;42,00;35,00
+Côte du Rhône;1,000;5,00;4,17
+Eau Gazeuse/Plate;2,000;5,00;4,55
+Fromages;1,000;11,00;10,00
+Gravel;2,000;10,00;9,09
+Grimbergen;2,000;13,00;10,83
+Jus Pomme;1,000;4,00;3,64
+Long Form;1,000;6,50;5,91
+Madiran;1,000;6,50;5,42
+Martini;1,000;5,00;4,17
+Mini Char;1,000;8,00;7,27
+Mini From;1,000;7,00;6,36
+Mixte;5,000;75,00;68,18
+Oliphant PINTE;3,000;24,60;20,50
+Patinoire;2,000;16,00;13,33
+Petrus;2,000;13,00;10,83
+Pietra DEMI;5,000;32,50;27,08
+Pietra PINTE;6,000;56,40;47,00
+Sodas;9,000;36,00;32,73
+Sup. Sirop;7,000;3,50;3,18
+Telenn Du;1,000;7,50;6,25
+Végan;1,000;11,00;10,00
+Velouté;2,000;13,00;10,83
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;1,000;5,00;4,17
+Bières bouteille;13,000;94,50;78,75
+Bières pression;53,000;319,00;265,83
+Boisson chaudes;2,000;4,00;3,64
+Cocktails;3,000;22,50;19,24
+Planches;13,000;133,00;119,32
+Softs;21,000;58,50;53,18
+Vins;3,000;14,50;12,08
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;96,000;518,00;436,89
+En-cas;13,000;133,00;119,32
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;109,000;109;651,00;556,21;0,00

@@ -1,0 +1,73 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+03/01/2019 à 18:41;03/01/2019 à 21:01;
+
+   Chiffre d'Affaires TTC;148,20 €   
+   Chiffre d'Affaires HT;125,56 €   
+   TVA Collecté;22,64 €   
+   Total Marge HT;125,54 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;17   
+   Nombre de produits vendus;27   
+   Ticket moyen TTC;8,72 €   
+   Nombre moyen de produits / Ticket;1,6   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;19;20,19 €   ;101,01;121,20 €   
+TVA Vente 10%;10 %;8;2,45 €   ;24,55;27,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;79,50 €;0,00 €;79,50 €;7
+Espèces;68,70 €;0,00 €;68,70 €;11
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Blanche des neige Demi;1,000;4,50;3,75
+Blanche neige PINTE;1,000;7,00;5,83
+Cabotinage DEMI;1,000;3,50;2,92
+Cabotinage HH;2,000;8,00;6,67
+Cabotinage PINTE;2,000;11,60;9,67
+Cidre DEMI;2,000;9,00;7,50
+Cidre PINTE;1,000;7,00;5,83
+Côte du Rhône;3,000;15,00;12,50
+Eau Gazeuse/Plate;2,000;5,00;4,55
+Jus Pomme;4,000;16,00;14,55
+Long Form HH;1,000;5,50;5,00
+Patinoire;1,000;8,00;6,67
+Rhum Krakren;1,000;10,00;8,33
+Rhum Zacapa;1,000;13,00;10,83
+Sup. Sirop;1,000;0,50;0,45
+Vertigo Pinte;3,000;24,60;20,50
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;2,000;23,00;19,17
+Bières pression;11,000;67,20;56,00
+Cocktails;1,000;8,00;6,67
+happy hour;3,000;13,50;11,67
+Softs;7,000;21,50;19,55
+Vins;3,000;15,00;12,50
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;27,000;148,20;125,55
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;27,000;24;148,20;125,55;0,00

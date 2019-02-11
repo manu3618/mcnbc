@@ -1,0 +1,82 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+30/10/2018 à 17:58;30/10/2018 à 23:52;
+
+   Chiffre d'Affaires TTC;363,50 €   
+   Chiffre d'Affaires HT;305,01 €   
+   TVA Collecté;58,49 €   
+   Total Marge HT;304,99 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;35   
+   Nombre de produits vendus;54   
+   Ticket moyen TTC;10,39 €   
+   Nombre moyen de produits / Ticket;1,5   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;48;55,95 €   ;279,55;335,50 €   
+TVA Vente 10%;10 %;6;2,54 €   ;25,46;28,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;274,20 €;0,00 €;274,20 €;24
+Carte Bancaire;89,30 €;0,00 €;89,30 €;11
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+BAP BAP Vertigo;5,000;40,00;33,33
+BapBap;2,000;14,00;11,67
+Cabotinage DEMI;3,000;10,50;8,75
+Cabotinage HH;5,000;20,00;16,67
+Cabotinage PINTE;6,000;34,80;29,00
+Café;1,000;2,00;1,82
+Cidre DEMI;3,000;13,50;11,25
+Cidre PINTE;1,000;7,00;5,83
+Festival;1,000;8,00;6,67
+Gascogne;3,000;15,00;12,50
+Improvi'bar Alcool;2,000;17,00;14,17
+Improvi'bar Soft;1,000;7,00;6,36
+Jus Pomme;1,000;4,00;3,64
+Kir breton;1,000;7,00;5,83
+Madiran;1,000;6,50;5,42
+Mini From;1,000;7,00;6,36
+Pietra PINTE;3,000;28,20;23,50
+Sodas;2,000;8,00;7,27
+Telenn Du;1,000;7,50;6,25
+Velouté;1,000;6,50;5,42
+Whisky Akashi;10,000;100,00;83,33
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;10,000;100,00;83,33
+Bières bouteille;8,000;61,50;51,25
+Bières pression;16,000;94,00;78,33
+Boisson chaudes;1,000;2,00;1,82
+Cocktails;5,000;39,00;33,03
+happy hour;5,000;20,00;16,67
+Planches;2,000;13,50;11,78
+Softs;3,000;12,00;10,91
+Vins;4,000;21,50;17,92
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;52,000;350,00;293,26
+En-cas;2,000;13,50;11,78
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;54,000;54;363,50;305,04;0,00

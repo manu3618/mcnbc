@@ -1,0 +1,89 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+06/01/2019 à 15:15;07/01/2019 à 00:02;
+
+   Chiffre d'Affaires TTC;617,70 €   
+   Chiffre d'Affaires HT;523,59 €   
+   TVA Collecté;94,11 €   
+   Total Marge HT;523,60 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;71   
+   Nombre de produits vendus;108   
+   Ticket moyen TTC;8,70 €   
+   Nombre moyen de produits / Ticket;1,5   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;78;83,52 €   ;417,18;500,70 €   
+TVA Vente 10%;10 %;30;10,59 €   ;106,41;117,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;311,00 €;0,00 €;311,00 €;35
+Espèces;306,70 €;0,00 €;306,70 €;37
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Applaudissement;1,000;5,00;4,55
+Blanche des neige Demi;3,000;13,50;11,25
+Blanche neige PINTE;10,000;70,00;58,33
+Cabotinage DEMI;2,000;7,00;5,83
+Cabotinage PINTE;15,000;87,00;72,50
+Chimay;1,000;7,50;6,25
+Cidre DEMI;5,000;22,50;18,75
+Cidre PINTE;4,000;28,00;23,33
+Cidre Val de Rance 33cl;3,000;15,00;12,50
+Cidre Val de Rance 75cl;1,000;11,00;9,17
+Côte du Rhône;3,000;15,00;12,50
+Drac;1,000;4,00;3,33
+Eau Gazeuse/Plate;1,000;2,50;2,27
+Féond;1,000;8,50;7,08
+Gascogne;2,000;10,00;8,33
+Gravel;1,000;5,00;4,55
+Hymne;3,000;18,00;15,00
+Jus Pomme;4,000;16,00;14,55
+Long Form;1,000;6,50;5,91
+Luberon;5,000;32,50;27,08
+Mini From;1,000;7,00;6,36
+Pietra PINTE;4,000;37,60;31,33
+Poiré;2,000;13,00;10,83
+Rhum Zacapa;1,000;13,00;10,83
+Scène;2,000;11,00;10,00
+Sodas;7,000;28,00;25,45
+Thé;12,000;36,00;32,73
+Vertigo demi;4,000;22,00;18,33
+Vertigo Pinte;8,000;65,60;54,67
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;1,000;13,00;10,83
+Bières bouteille;8,000;55,00;45,83
+Bières pression;55,000;353,20;294,33
+Boisson chaudes;16,000;59,00;52,27
+Cocktails;3,000;17,50;15,91
+Planches;1,000;7,00;6,36
+Softs;13,000;51,50;46,82
+Vins;11,000;61,50;51,25
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;107,000;610,70;517,25
+En-cas;1,000;7,00;6,36
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;108,000;89;617,70;523,61;0,00

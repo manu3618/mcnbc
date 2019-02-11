@@ -1,0 +1,103 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+18/01/2019 à 17:50;19/01/2019 à 01:02;
+
+   Chiffre d'Affaires TTC;734,40 €   
+   Chiffre d'Affaires HT;628,23 €   
+   TVA Collecté;106,17 €   
+   Total Marge HT;628,22 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;74   
+   Nombre de produits vendus;127   
+   Ticket moyen TTC;9,92 €   
+   Nombre moyen de produits / Ticket;1,7   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;88;86,74 €   ;433,66;520,40 €   
+TVA Vente 10%;10 %;39;19,43 €   ;194,57;214,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;429,20 €;0,00 €;429,20 €;39
+Espèces;305,20 €;0,00 €;305,20 €;37
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Applaudissement;1,000;5,00;4,55
+Blanche des neige Demi;8,000;36,00;30,00
+Blanche neige PINTE;1,000;7,00;5,83
+Cabotinage DEMI;7,000;24,50;20,42
+Cabotinage HH;2,000;8,00;6,67
+Cabotinage PINTE;19,000;110,20;91,83
+Café;1,000;2,00;1,82
+Charcuterie;2,000;26,00;23,64
+Cidre DEMI;3,000;13,50;11,25
+Cidre PINTE;8,000;56,00;46,67
+Cidre Val de Rance 33cl;1,000;5,00;4,17
+Côte du Rhône;8,000;40,00;33,33
+Desperados;1,000;7,00;5,83
+Eau Gazeuse/Plate;6,000;15,00;13,64
+Festival;4,000;32,00;26,67
+Gascogne;3,000;15,00;12,50
+Gravel;2,000;10,00;9,09
+Hymne;2,000;12,00;10,00
+Improvi'bar Alcool;1,000;8,00;6,67
+Jus Pomme;3,000;12,00;10,91
+Long Form;3,000;19,50;17,73
+Luberon;2,000;13,00;10,83
+Madeleine;2,000;4,00;3,64
+Master;1,000;8,00;6,67
+Mini From;2,000;14,00;12,73
+Mini Végan;1,000;7,00;6,36
+Mixte;4,000;60,00;54,55
+Monaco;2,000;13,00;10,83
+Patinoire;1,000;8,00;6,67
+Petrus;1,000;6,50;5,42
+Pietra DEMI;2,000;13,00;10,83
+Pietra PINTE;3,000;28,20;23,50
+Scène;2,000;11,00;10,00
+Sodas;3,000;12,00;10,91
+Sphinx;1,000;8,00;6,67
+Sup. Sirop;5,000;2,50;2,27
+Thé;1,000;3,00;2,73
+Végan;1,000;11,00;10,00
+Velouté;1,000;6,50;5,42
+Vertigo demi;2,000;11,00;9,17
+Vertigo HH;1,000;6,40;5,33
+Vertigo Pinte;3,000;24,60;20,50
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;4,000;26,50;22,08
+Bières pression;56,000;324,00;270,00
+Boisson chaudes;5,000;22,00;19,09
+Cocktails;14,000;99,50;85,23
+en cas;2,000;4,00;3,64
+happy hour;3,000;14,40;12,00
+Planches;11,000;124,50;112,69
+Softs;19,000;51,50;46,82
+Vins;13,000;68,00;56,67
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;114,000;605,90;511,89
+En-cas;13,000;128,50;116,33
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;127,000;118;734,40;628,21;0,00
