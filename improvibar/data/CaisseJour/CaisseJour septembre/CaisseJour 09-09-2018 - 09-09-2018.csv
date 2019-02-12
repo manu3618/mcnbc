@@ -1,0 +1,70 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+09/09/2018 à 16:24;09/09/2018 à 22:03;
+
+   Chiffre d'Affaires TTC;431,40 €   
+   Chiffre d'Affaires HT;362,27 €   
+   TVA Collecté;69,13 €   
+   Total Marge HT;362,19 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;49   
+   Nombre de produits vendus;72   
+   Ticket moyen TTC;8,80 €   
+   Nombre moyen de produits / Ticket;1,5   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;62;65,87 €   ;329,53;395,40 €   
+TVA Vente 10%;10 %;10;3,26 €   ;32,74;36,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;431,40 €;0,00 €;431,40 €;49
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Cabotinage DEMI;4,000;14,00;11,67
+Cabotinage PINTE;28,000;162,40;135,33
+Cidre Val de Rance 33cl;1,000;5,00;4,17
+Cognac;1,000;11,00;9,17
+Eau Gazeuse/Plate;1,000;2,50;2,27
+Grimbergen;1,000;6,50;5,42
+Jus Pomme;4,000;16,00;14,55
+Leffe;2,000;13,00;10,83
+Oliphant DEMI;2,000;10,40;8,67
+Oliphant PINTE;13,000;101,40;84,50
+Pietra PINTE;3,000;29,40;24,50
+Sirop à l'eau;1,000;1,50;1,36
+Sodas;4,000;16,00;14,55
+Sphinx;3,000;13,50;11,25
+Sphinx PINTE;4,000;28,80;24,00
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;1,000;11,00;9,17
+Bières bouteille;3,000;19,50;16,25
+Bières pression;57,000;359,90;299,92
+Softs;10,000;36,00;32,73
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;72,000;431,40;362,23
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;72,000;72;431,40;362,23;0,00

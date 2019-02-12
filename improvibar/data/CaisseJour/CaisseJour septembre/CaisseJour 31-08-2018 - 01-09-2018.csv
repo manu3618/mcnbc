@@ -1,0 +1,62 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+31/08/2018 à 20:27;01/09/2018 à 00:16;
+
+   Chiffre d'Affaires TTC;108,30 €   
+   Chiffre d'Affaires HT;91,39 €   
+   TVA Collecté;16,91 €   
+   Total Marge HT;91,36 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;10   
+   Nombre de produits vendus;21   
+   Ticket moyen TTC;10,83 €   
+   Nombre moyen de produits / Ticket;2,1   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;20;15,55 €   ;77,75;93,30 €   
+TVA Vente 10%;10 %;1;1,36 €   ;13,64;15,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;108,30 €;0,00 €;108,30 €;10
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Cabotinage DEMI;1,000;3,50;2,92
+Cabotinage PINTE;1,000;5,80;4,83
+Felsgold HH;9,000;36,00;30,00
+Mixte;1,000;15,00;13,64
+Punch sans alcool HH;3,000;12,00;10,00
+Sphinx PINTE;1,000;7,50;6,25
+Uburu DEMI;2,000;9,00;7,50
+Uburu PINTE;3,000;19,50;16,25
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières pression;8,000;45,30;37,75
+Planches;1,000;15,00;13,64
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;20,000;93,30;77,75
+En-cas;1,000;15,00;13,64
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;21,000;21;108,30;91,39;0,00

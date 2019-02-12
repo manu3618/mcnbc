@@ -1,0 +1,67 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+07/09/2018 à 19:44;08/09/2018 à 00:59;
+
+   Chiffre d'Affaires TTC;120,80 €   
+   Chiffre d'Affaires HT;105,72 €   
+   TVA Collecté;15,08 €   
+   Total Marge HT;105,69 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;9   
+   Nombre de produits vendus;20   
+   Ticket moyen TTC;13,42 €   
+   Nombre moyen de produits / Ticket;2,2   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;12;9,05 €   ;45,25;54,30 €   
+TVA Vente 10%;10 %;8;6,03 €   ;60,47;66,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;120,80 €;0,00 €;120,80 €;9
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Cabotinage DEMI;1,000;3,50;2,92
+Cabotinage PINTE;2,000;11,60;9,67
+Charcuterie;1,000;13,00;11,82
+Felsgold HH;7,000;28,00;23,33
+Fromages;1,000;11,00;10,00
+Le Spectacle;3,000;19,50;17,73
+Mixte;1,000;15,00;13,64
+Sodas;2,000;8,00;7,27
+Sphinx PINTE;1,000;7,20;6,00
+Valpolicella Rouge VERRE;1,000;4,00;3,33
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières pression;4,000;22,30;18,58
+Cocktails;3,000;19,50;17,73
+Planches;3,000;39,00;35,45
+Softs;2,000;8,00;7,27
+Vins;1,000;4,00;3,33
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;17,000;81,80;70,25
+En-cas;3,000;39,00;35,45
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;20,000;20;120,80;105,70;0,00

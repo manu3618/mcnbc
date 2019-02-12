@@ -1,0 +1,58 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+02/12/2018 à 23:00;02/12/2018 à 23:34;
+
+   Chiffre d'Affaires TTC;23,00 €   
+   Chiffre d'Affaires HT;20,91 €   
+   TVA Collecté;2,09 €   
+   Total Marge HT;20,92 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;1   
+   Nombre de produits vendus;4   
+   Ticket moyen TTC;23,00 €   
+   Nombre moyen de produits / Ticket;4,0   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 10%;10 %;4;2,09 €   ;20,91;23,00 €   
+;;;;0,00;
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;23,00 €;0,00 €;23,00 €;1
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Jus Pomme;2,000;8,00;7,27
+Madeleine;1,000;2,00;1,82
+Mont d'or petit;1,000;13,00;11,82
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+en cas;1,000;2,00;1,82
+Planches;1,000;13,00;11,82
+Softs;2,000;8,00;7,27
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;2,000;8,00;7,27
+En-cas;2,000;15,00;13,64
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;4,000;4;23,00;20,91;0,00

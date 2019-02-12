@@ -1,0 +1,80 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+06/12/2018 à 18:11;07/12/2018 à 02:06;
+
+   Chiffre d'Affaires TTC;672,30 €   
+   Chiffre d'Affaires HT;564,42 €   
+   TVA Collecté;107,88 €   
+   Total Marge HT;564,31 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;72   
+   Nombre de produits vendus;115   
+   Ticket moyen TTC;9,34 €   
+   Nombre moyen de produits / Ticket;1,6   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;105;102,83 €   ;513,97;616,80 €   
+TVA Vente 10%;10 %;10;5,05 €   ;50,45;55,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;442,30 €;0,00 €;442,30 €;41
+Espèces;230,00 €;0,00 €;230,00 €;31
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Blanche des neige Demi;3,000;13,50;11,25
+Blanche neige PINTE;2,000;14,00;11,67
+Cabotinage DEMI;19,000;66,50;55,42
+Cabotinage PINTE;36,000;208,80;174,00
+Charcuterie;1,000;13,00;11,82
+Cidre DEMI;4,000;18,00;15,00
+Cidre HH;2,000;10,40;8,67
+Cidre PINTE;16,000;112,00;93,33
+Cidre Val de Rance 33cl;1,000;5,00;4,17
+Eau Gazeuse/Plate;3,000;7,50;6,82
+Festival;1,000;8,00;6,67
+Fromages;1,000;11,00;10,00
+Jus Pomme;1,000;4,00;3,64
+Luberon;3,000;19,50;16,25
+Mixte;1,000;15,00;13,64
+Pietra DEMI;4,000;26,00;21,67
+Pietra PINTE;7,000;65,80;54,83
+Sodas;1,000;4,00;3,64
+Sup. Sirop;2,000;1,00;0,91
+Vertigo demi;3,000;16,50;13,75
+Vertigo Pinte;4,000;32,80;27,33
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;1,000;5,00;4,17
+Bières pression;98,000;573,90;478,25
+Cocktails;1,000;8,00;6,67
+happy hour;2,000;10,40;8,67
+Planches;3,000;39,00;35,45
+Softs;7,000;16,50;15,00
+Vins;3,000;19,50;16,25
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;112,000;633,30;529,00
+En-cas;3,000;39,00;35,45
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;115,000;115;672,30;564,45;0,00

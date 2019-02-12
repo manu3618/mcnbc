@@ -1,0 +1,67 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+25/09/2018 à 18:56;26/09/2018 à 00:04;
+
+   Chiffre d'Affaires TTC;186,50 €   
+   Chiffre d'Affaires HT;156,58 €   
+   TVA Collecté;29,92 €   
+   Total Marge HT;156,52 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;24   
+   Nombre de produits vendus;33   
+   Ticket moyen TTC;7,77 €   
+   Nombre moyen de produits / Ticket;1,4   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;27;28,51 €   ;142,49;171,00 €   
+TVA Vente 10%;10 %;6;1,41 €   ;14,09;15,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;143,20 €;0,00 €;143,20 €;18
+Carte Bancaire;43,30 €;0,00 €;43,30 €;6
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Cabotinage PINTE;7,000;40,60;33,83
+Cidre DEMI;3,000;13,50;11,25
+Cidre PINTE;4,000;28,00;23,33
+Eau Gazeuse/Plate;1,000;2,50;2,27
+Jus Pomme;3,000;12,00;10,91
+Oliphant DEMI;1,000;5,50;4,58
+Oliphant PINTE;2,000;16,40;13,67
+Pinte HH;4,000;16,00;13,33
+Porto;1,000;4,00;3,33
+Sup. Sirop;2,000;1,00;0,91
+Valpolicella Rouge BOUTEILLE 37,5 cl;3,000;27,00;22,50
+Whisky R.Burns;2,000;20,00;16,67
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;3,000;24,00;20,00
+Bières pression;17,000;104,00;86,67
+Softs;6,000;15,50;14,09
+Vins;3,000;27,00;22,50
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;33,000;186,50;156,59
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;33,000;33;186,50;156,59;0,00

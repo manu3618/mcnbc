@@ -1,0 +1,92 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+15/11/2018 à 18:39;16/11/2018 à 02:02;
+
+   Chiffre d'Affaires TTC;963,30 €   
+   Chiffre d'Affaires HT;810,81 €   
+   TVA Collecté;152,49 €   
+   Total Marge HT;810,74 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;90   
+   Nombre de produits vendus;161   
+   Ticket moyen TTC;10,70 €   
+   Nombre moyen de produits / Ticket;1,8   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;143;142,81 €   ;713,99;856,80 €   
+TVA Vente 10%;10 %;18;9,68 €   ;96,82;106,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;341,80 €;0,00 €;341,80 €;38
+Carte Bancaire;621,50 €;0,00 €;621,50 €;52
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Blanche des neige Demi;5,000;22,50;18,75
+Blanche neige PINTE;7,000;49,00;40,83
+Bordolino rosé VERRE;1,000;3,00;2,50
+Cabaret HH;1,000;6,20;5,17
+Cabotinage DEMI;22,000;77,00;64,17
+Cabotinage HH;5,000;20,00;16,67
+Cabotinage PINTE;38,000;220,40;183,67
+Charcuterie;1,000;13,00;11,82
+Chimay;1,000;7,50;6,25
+Cidre DEMI;5,000;22,50;18,75
+Cidre PINTE;6,000;42,00;35,00
+Côte du Rhône;6,000;30,00;25,00
+Festival;1,000;8,00;6,67
+Fromages;1,000;11,00;10,00
+Improvi'bar Alcool;3,000;24,00;20,00
+Improvi'bar Soft;1,000;6,00;5,45
+Jus Pomme;2,000;8,00;7,27
+Lever de Rideau;1,000;8,00;6,67
+Mini From;1,000;7,00;6,36
+Mini Végan;1,000;7,00;6,36
+Mixte;1,000;15,00;13,64
+Oliphant PINTE;1,000;8,20;6,83
+Patinoire;6,000;48,00;40,00
+Patinoire HH;1,000;6,20;5,17
+Pietra DEMI;6,000;39,00;32,50
+Pietra HH;1,000;7,60;6,33
+Pietra PINTE;10,000;94,00;78,33
+Scène;1,000;5,50;5,00
+Shots 1;2,000;7,00;5,83
+Sodas;7,000;28,00;25,45
+Sodas HH;2,000;6,00;5,45
+Vertigo demi;3,000;16,50;13,75
+Vertigo Pinte;11,000;90,20;75,17
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;1,000;7,50;6,25
+Bières pression;114,000;681,30;567,75
+Cocktails;15,000;106,50;89,62
+happy hour;10,000;46,00;38,79
+Planches;5,000;53,00;48,18
+Softs;9,000;36,00;32,73
+Vins;7,000;33,00;27,50
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;156,000;910,30;762,64
+En-cas;5,000;53,00;48,18
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;161,000;161;963,30;810,82;0,00

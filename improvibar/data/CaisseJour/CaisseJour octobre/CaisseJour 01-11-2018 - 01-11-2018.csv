@@ -1,0 +1,54 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+01/11/2018 à 01:57;01/11/2018 à 16:20;
+
+   Chiffre d'Affaires TTC;19,80 €   
+   Chiffre d'Affaires HT;16,50 €   
+   TVA Collecté;3,30 €   
+   Total Marge HT;16,49 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;1   
+   Nombre de produits vendus;3   
+   Ticket moyen TTC;19,80 €   
+   Nombre moyen de produits / Ticket;3,0   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;3;3,30 €   ;16,50;19,80 €   
+;;;;0,00;
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;19,80 €;0,00 €;19,80 €;1
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Cabotinage PINTE;1,000;5,80;4,83
+Cidre PINTE;2,000;14,00;11,67
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières pression;3,000;19,80;16,50
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;3,000;19,80;16,50
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;3,000;3;19,80;16,50;0,00

@@ -1,0 +1,54 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+13/09/2018 à 17:35;13/09/2018 à 23:13;
+
+   Chiffre d'Affaires TTC;12,00 €   
+   Chiffre d'Affaires HT;10,00 €   
+   TVA Collecté;2,00 €   
+   Total Marge HT;9,99 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;2   
+   Nombre de produits vendus;3   
+   Ticket moyen TTC;6,00 €   
+   Nombre moyen de produits / Ticket;1,5   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;3;2,00 €   ;10,00;12,00 €   
+;;;;0,00;
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;12,00 €;0,00 €;12,00 €;2
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Punch sans alcool HH;1,000;4,00;3,33
+Valpolicella Rouge VERRE;2,000;8,00;6,67
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Vins;2,000;8,00;6,67
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;3,000;12,00;10,00
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;3,000;3;12,00;10,00;0,00

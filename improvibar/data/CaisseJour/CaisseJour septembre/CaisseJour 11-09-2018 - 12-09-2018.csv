@@ -1,0 +1,68 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+11/09/2018 à 18:55;12/09/2018 à 00:30;
+
+   Chiffre d'Affaires TTC;170,50 €   
+   Chiffre d'Affaires HT;145,42 €   
+   TVA Collecté;25,08 €   
+   Total Marge HT;145,42 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;17   
+   Nombre de produits vendus;28   
+   Ticket moyen TTC;10,03 €   
+   Nombre moyen de produits / Ticket;1,6   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;19;21,15 €   ;105,85;127,00 €   
+TVA Vente 10%;10 %;9;3,93 €   ;39,57;43,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;170,50 €;0,00 €;170,50 €;17
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Bordolino rosé VERRE;1,000;5,00;4,17
+Charcuterie;1,000;13,00;11,82
+Cidre Val de Rance 33cl;1,000;5,00;4,17
+Cidre Val de Rance 75cl;1,000;11,00;9,17
+Eau Gazeuse/Plate;1,000;2,50;2,27
+Jus Pomme;5,000;20,00;18,18
+Oliphant DEMI;1,000;5,20;4,33
+Oliphant PINTE;5,000;39,00;32,50
+Pietra DEMI;3,000;19,50;16,25
+Sodas;2,000;8,00;7,27
+Sphinx;3,000;13,50;11,25
+Sphinx PINTE;4,000;28,80;24,00
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières pression;16,000;106,00;88,33
+Planches;1,000;13,00;11,82
+Softs;8,000;30,50;27,73
+Vins;1,000;5,00;4,17
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;27,000;157,50;133,56
+En-cas;1,000;13,00;11,82
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;28,000;28;170,50;145,38;0,00

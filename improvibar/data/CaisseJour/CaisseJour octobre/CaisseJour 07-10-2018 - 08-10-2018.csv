@@ -1,0 +1,97 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+07/10/2018 à 14:38;08/10/2018 à 00:15;
+
+   Chiffre d'Affaires TTC;664,30 €   
+   Chiffre d'Affaires HT;570,91 €   
+   TVA Collecté;93,39 €   
+   Total Marge HT;570,95 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;75   
+   Nombre de produits vendus;125   
+   Ticket moyen TTC;8,86 €   
+   Nombre moyen de produits / Ticket;1,7   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;79;72,64 €   ;363,16;435,80 €   
+TVA Vente 10%;10 %;46;20,75 €   ;207,75;228,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;306,70 €;0,00 €;306,70 €;27
+Espèces;357,60 €;0,00 €;357,60 €;48
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Blanc VERRE;4,000;12,00;10,00
+Bordolino rosé VERRE;4,000;12,00;10,00
+Cabotinage DEMI;6,000;21,00;17,50
+Cabotinage PINTE;13,000;75,40;62,83
+Café;1,000;2,00;1,82
+Charcuterie;1,000;13,00;11,82
+Chateau Rouge;1,000;8,00;6,67
+Cidre DEMI;10,000;45,00;37,50
+Cidre PINTE;8,000;56,00;46,67
+Desperados;2,000;13,00;10,83
+Eau Gazeuse/Plate;4,000;10,00;9,09
+Festival;2,000;16,00;14,55
+Jus Pomme;7,000;28,00;25,45
+Lever de Rideau;1,000;7,50;6,25
+Long Form;1,000;6,50;5,91
+Madeleine;2,000;4,00;3,64
+Martini;1,000;5,00;4,17
+Mini Char;1,000;8,00;7,27
+Mini From;1,000;7,00;6,36
+Mixte;2,000;30,00;27,27
+Oliphant PINTE;1,000;8,20;6,83
+Pietra DEMI;6,000;39,00;32,50
+Pietra PINTE;5,000;49,00;40,83
+Pineau des charentes;1,000;6,00;5,00
+Porto;1,000;4,00;3,33
+Scène;4,000;22,00;20,00
+Shots 1;1,000;3,50;2,92
+Sodas;7,000;28,00;25,45
+Sodas HH;1,000;3,00;2,73
+Sphinx;2,000;9,00;7,50
+Sphinx HH;1,000;5,00;4,17
+Sphinx PINTE;1,000;7,20;6,00
+Sup. Sirop;6,000;3,00;2,73
+Thé;2,000;4,00;3,64
+Valençay rouge VERRE;10,000;50,00;41,67
+Végan;4,000;44,00;40,00
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Alcool Fort;2,000;9,00;7,50
+Bières bouteille;3,000;21,00;17,50
+Bières pression;52,000;309,80;258,17
+Boisson chaudes;3,000;6,00;5,45
+Cocktails;9,000;55,50;49,62
+en cas;2,000;4,00;3,64
+Planches;9,000;102,00;92,73
+Softs;24,000;69,00;62,73
+Vins;19,000;80,00;66,67
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;114,000;558,30;474,53
+En-cas;11,000;106,00;96,36
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;125,000;125;664,30;570,89;0,00

@@ -1,0 +1,78 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+06/11/2018 à 18:09;06/11/2018 à 23:27;
+
+   Chiffre d'Affaires TTC;139,20 €   
+   Chiffre d'Affaires HT;120,48 €   
+   TVA Collecté;18,72 €   
+   Total Marge HT;120,51 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;19   
+   Nombre de produits vendus;27   
+   Ticket moyen TTC;7,33 €   
+   Nombre moyen de produits / Ticket;1,4   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;14;13,37 €   ;66,83;80,20 €   
+TVA Vente 10%;10 %;13;5,35 €   ;53,65;59,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;67,00 €;0,00 €;67,00 €;10
+Carte Bancaire;72,20 €;0,00 €;72,20 €;9
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Bol saucisson;1,000;4,00;3,33
+Cabaret;2,000;16,00;13,33
+Cabotinage DEMI;2,000;7,00;5,83
+Cabotinage PINTE;1,000;5,80;4,83
+Chimay;1,000;7,50;6,25
+Cidre DEMI;2,000;9,00;7,50
+Cidre Val de Rance 33cl;2,000;10,00;8,33
+Eau Gazeuse/Plate;1,000;2,50;2,27
+Jus Pomme;1,000;4,00;3,64
+Jus pomme HH;1,000;3,00;2,73
+Long Form HH;2,000;11,00;10,00
+Madeleine;2,000;4,00;3,64
+Mixte;1,000;15,00;13,64
+Pietra DEMI;1,000;6,50;5,42
+Scène;1,000;5,50;5,00
+Sodas;2,000;8,00;7,27
+Sodas HH;2,000;6,00;5,45
+Spotlight;1,000;8,00;6,67
+Vertigo HH;1,000;6,40;5,33
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;3,000;17,50;14,58
+Bières pression;6,000;28,30;23,58
+Cocktails;4,000;29,50;25,00
+en cas;2,000;4,00;3,64
+happy hour;6,000;26,40;23,52
+Planches;2,000;19,00;16,97
+Softs;4,000;14,50;13,18
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;23,000;116,20;99,86
+En-cas;4,000;23,00;20,61
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;27,000;27;139,20;120,47;0,00

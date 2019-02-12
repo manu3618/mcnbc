@@ -1,0 +1,84 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+13/10/2018 à 17:36;14/10/2018 à 01:34;
+
+   Chiffre d'Affaires TTC;737,90 €   
+   Chiffre d'Affaires HT;626,32 €   
+   TVA Collecté;111,58 €   
+   Total Marge HT;626,26 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;70   
+   Nombre de produits vendus;117   
+   Ticket moyen TTC;10,54 €   
+   Nombre moyen de produits / Ticket;1,7   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;95;97,82 €   ;488,58;586,40 €   
+TVA Vente 10%;10 %;22;13,76 €   ;137,74;151,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;392,60 €;0,00 €;392,60 €;25
+Espèces;345,30 €;0,00 €;345,30 €;45
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Blanc VERRE;5,000;15,00;12,50
+Cabotinage DEMI;10,000;35,00;29,17
+Cabotinage PINTE;18,000;104,40;87,00
+Cidre DEMI;5,000;22,50;18,75
+Cidre PINTE;24,000;168,00;140,00
+Eau Gazeuse/Plate;3,000;7,50;6,82
+Festival;4,000;32,00;29,09
+Fromages;1,000;11,00;10,00
+Gravel;2,000;9,00;8,18
+Jus Pomme;2,000;8,00;7,27
+Lever de Rideau;1,000;7,50;6,25
+Long Form;3,000;19,50;17,73
+Mixte;3,000;45,00;40,91
+Oliphant DEMI;1,000;5,50;4,58
+Oliphant PINTE;13,000;106,60;88,83
+Patinoire;6,000;45,00;37,50
+Pietra DEMI;3,000;19,50;16,25
+Pietra PINTE;1,000;9,80;8,17
+Sodas;2,000;8,00;7,27
+Sphinx;2,000;9,00;7,50
+Sphinx HH;2,000;10,00;8,33
+Sphinx PINTE;3,000;21,60;18,00
+Sup. Sirop;1,000;0,50;0,45
+Telenn Du;1,000;7,00;5,83
+Végan;1,000;11,00;10,00
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;1,000;7,00;5,83
+Bières pression;80,000;501,90;418,25
+Cocktails;14,000;104,00;90,57
+happy hour;2,000;10,00;8,33
+Planches;5,000;67,00;60,91
+Softs;10,000;33,00;30,00
+Vins;5,000;15,00;12,50
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;112,000;670,90;565,48
+En-cas;5,000;67,00;60,91
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;117,000;117;737,90;626,39;0,00

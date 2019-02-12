@@ -1,0 +1,62 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+20/11/2018 à 19:07;20/11/2018 à 23:20;
+
+   Chiffre d'Affaires TTC;93,20 €   
+   Chiffre d'Affaires HT;77,65 €   
+   TVA Collecté;15,55 €   
+   Total Marge HT;77,65 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;13   
+   Nombre de produits vendus;18   
+   Ticket moyen TTC;7,17 €   
+   Nombre moyen de produits / Ticket;1,4   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;18;15,55 €   ;77,65;93,20 €   
+;;;;0,00;
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Carte Bancaire;35,20 €;0,00 €;35,20 €;7
+Espèces;58,00 €;0,00 €;58,00 €;6
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Blanche des neige Demi;2,000;9,00;7,50
+Cabotinage DEMI;1,000;3,50;2,92
+Cabotinage HH;1,000;4,00;3,33
+Cabotinage PINTE;4,000;23,20;19,33
+Chateau Rouge;1,000;7,00;5,83
+Cidre DEMI;5,000;22,50;18,75
+Pietra DEMI;2,000;13,00;10,83
+Vertigo demi;2,000;11,00;9,17
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;1,000;7,00;5,83
+Bières pression;16,000;82,20;68,50
+happy hour;1,000;4,00;3,33
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;18,000;93,20;77,67
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;18,000;18;93,20;77,67;0,00

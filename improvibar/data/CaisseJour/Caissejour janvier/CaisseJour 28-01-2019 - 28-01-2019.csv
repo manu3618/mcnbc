@@ -1,0 +1,59 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+28/01/2019 à 19:10;28/01/2019 à 22:12;
+
+   Chiffre d'Affaires TTC;49,20 €   
+   Chiffre d'Affaires HT;41,39 €   
+   TVA Collecté;7,81 €   
+   Total Marge HT;41,38 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;4   
+   Nombre de produits vendus;7   
+   Ticket moyen TTC;12,30 €   
+   Nombre moyen de produits / Ticket;1,8   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;6;7,36 €   ;36,84;44,20 €   
+TVA Vente 10%;10 %;1;0,45 €   ;4,55;5,00 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;34,00 €;0,00 €;34,00 €;3
+Carte Bancaire;15,20 €;0,00 €;15,20 €;1
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Applaudissement;1,000;5,00;4,55
+Cabotinage DEMI;1,000;3,50;2,92
+Cidre PINTE;1,000;7,00;5,83
+Féond;3,000;25,50;21,25
+Vertigo Pinte;1,000;8,20;6,83
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;3,000;25,50;21,25
+Bières pression;3,000;18,70;15,58
+Boisson chaudes;1,000;5,00;4,55
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;7,000;49,20;41,38
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;7,000;6;49,20;41,38;0,00

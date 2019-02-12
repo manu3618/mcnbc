@@ -1,0 +1,67 @@
+Caisse du Jour
+---------------------------------------------------------
+Ouverture;Fermeture
+30/08/2018 à 19:33;30/08/2018 à 23:16;
+
+   Chiffre d'Affaires TTC;134,10 €   
+   Chiffre d'Affaires HT;115,37 €   
+   TVA Collecté;18,73 €   
+   Total Marge HT;115,35 €   
+   Total Marchandises HT;0,00 €   
+   Coefficient moyen;0,00   
+
+   Nombre de Tickets/Factures;7   
+   Nombre de produits vendus;19   
+   Ticket moyen TTC;19,16 €   
+   Nombre moyen de produits / Ticket;2,7   
+
+   Acomptes;0,00 €   
+   Annulations;0,00 €   
+   Avoirs;0,00 €   
+   Remboursements;0,00 €   
+   Remises;0,00 €   
+   Versements clients;0,00 €   
+
+Nom TVA;Taux TVA;Nb de Ventes;Montant;CA HT;CATTC
+TVA Vente 20%;20 %;15;14,42 €   ;72,18;86,60 €   
+TVA Vente 10%;10 %;4;4,31 €   ;43,19;47,50 €   
+
+Nom Règlement;Total Entrées;Total Sorties;Total;Nb Règlements
+Espèces;134,10 €;0,00 €;134,10 €;7
+;;;;
+;;;;
+;;;;
+
+Statistiques Articles
+---------------------------------------------------------
+Nom Article;Quantité;Total TTC;Marge
+Cabotinage DEMI;1,000;3,50;2,92
+Cabotinage PINTE;1,000;5,80;4,83
+Féond;1,000;7,80;6,50
+Fromages;1,000;11,00;10,00
+Le Spectacle;1,000;6,50;5,91
+Mixte;2,000;30,00;27,27
+Oliphant PINTE;3,000;22,50;18,75
+Sphinx PINTE;1,000;7,50;6,25
+Uburu PINTE;3,000;19,50;16,25
+Valpolicella Rouge VERRE;5,000;20,00;16,67
+
+Statistiques Familles
+---------------------------------------------------------
+Nom Famille;Qté Articles;Total TTC;Marge
+Bières bouteille;1,000;7,80;6,50
+Bières pression;9,000;58,80;49,00
+Cocktails;1,000;6,50;5,91
+Planches;3,000;41,00;37,27
+Vins;5,000;20,00;16,67
+
+Statistiques Rayons
+---------------------------------------------------------
+Nom Rayon;Qté Articles;Total TTC;Marge
+Bar;16,000;93,10;78,08
+En-cas;3,000;41,00;37,27
+
+Statistiques Caissiers
+---------------------------------------------------------
+Nom Caissier;Qté Articles;Nb Tickets;Total TTC;Marge
+<Aucun>;19,000;19;134,10;115,35;0,00
