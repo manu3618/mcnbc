@@ -1,3 +1,4 @@
+icalendar
 jupyter
 matplotlib
 numpy
