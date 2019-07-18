@@ -3,6 +3,7 @@ jupyter
 matplotlib
 numpy
 pandas
+pandas-profiling
 scikit-learn
 seaborn
 statsmodels
