@@ -1,3 +1,4 @@
+.PHONY:
 all: improvibar.pdf improvibar.html
 
 improvibar.pdf: improvibar.ipynb
