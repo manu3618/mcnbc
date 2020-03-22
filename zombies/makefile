@@ -12,8 +12,7 @@ zombie.pdf: zombie.tex $(OBJ)
 	${LATEX} $<
 
 
-zombie.tex:
-zombie_files/%.png: zombie.ipynb
+zombie.tex zombie_files/%.png: zombie.ipynb
 	python -m nbconvert --to latex $<
 
 
