@@ -1,6 +1,7 @@
 add_ons:
     apt_packages:
         - pandoc
+        - poppler-utils
         - texlive-full
 
 language: python
