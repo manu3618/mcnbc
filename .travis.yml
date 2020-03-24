@@ -1,4 +1,11 @@
+add_ons:
+    apt_packages:
+        - pandoc
+        - poppler-utils
+        - texlive-full
+
 language: python
+
 python:
     - "3.6"
     # - "3.8"

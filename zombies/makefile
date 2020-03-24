@@ -2,22 +2,26 @@ LATEX=pdflatex
 BIBTEX=bibtex
 BIB=$(wildcard *.bib)
 RERUN='(There is undefined reference|Rerun to get (cross-references|the bars) right)'
-OBJ:=$(wildcard *.tex *png *aux zombies_files/*png)
+OBJ=$(wildcard *aux zombies_files/*png) transition.png transition.pdf zombie.tex
 
 .PHONY: all
 all: zombie.pdf
 
 
-zombie.pdf: zombie.tex $(OBJ)
+zombie.pdf: zombie.tex transition.png
 	${LATEX} $<
 
 
-zombie.tex zombie_files/%.png: zombie.ipynb
+zombie.tex: zombie.ipynb transition.png
 	python -m nbconvert --to latex $<
 
 
-transition.png: transition.tex
+transition.pdf: transition.tex
 	${LATEX} $<
+
+
+transition.png: transition.pdf
+	pdftocairo -png $<  && mv transition-1.png $@
 
 
 indent: *.tex
@@ -26,4 +30,8 @@ indent: *.tex
 
 .PHONY: clean
 clean:
-	rm -frv *.log *.aux *.dvi *.toc *.lot *.lof *.snm *.nav *.out *.tns *.bak? *.blg *.idx *.ilg *.loa *.tdo *.vrb zombies_files/
+	rm -frv *.log *.aux *.dvi *.toc *.lot *.lof *.snm *.nav *.out *.tns *.bak? *.blg *.idx *.ilg *.loa *.tdo *.vrb ${OBJ}
+
+
+mrproper: clean
+	rm zombie.pdf
