@@ -7,6 +7,7 @@ tools.
 
 ### Requirements
 
+- latex
 - pandoc
 - python >=3.6 <=3.8
 - jupyter-notebook
