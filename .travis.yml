@@ -1,8 +1,7 @@
 add_ons:
     apt_packages:
         - pandoc
-        - texlive
-        - texlive-latex-base
+        - texlive-latex-extra
 
 language: python
 
