@@ -12,7 +12,7 @@ zombie.pdf: zombie.tex transition.png
 	${LATEX} $<
 
 
-zombie.tex: zombie.ipynb
+zombie.tex: zombie.ipynb transition.png
 	python -m nbconvert --to latex $<
 
 
@@ -21,7 +21,7 @@ transition.pdf: transition.tex
 
 
 transition.png: transition.pdf
-	pdftoppm $< > $@
+	pdftocairo -png $<  && mv transition-1.png $@
 
 
 indent: *.tex
