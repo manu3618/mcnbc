@@ -9,7 +9,7 @@ tools.
 
 - latex
 - pandoc
-- python >=3.6 <=3.8
+- python >=3.6 <=3.9
 - jupyter-notebook
 
 ### Quick start
